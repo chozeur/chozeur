@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47nzlxdgxr6od6vrz7w2xqpnjccffhxkhlqlaxpm0t&rid=giphy.gif&ct=s">
+  <img src="https://media.giphy.com/media/JzzLFXnZt4aiI/giphy.gif">
 </p>
 
 <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
