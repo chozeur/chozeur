@@ -23,9 +23,9 @@
 
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=chozeur&show_icons=true&theme=gotham" alt="github stats" width="48%" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chozeur&show_icons=true&theme=midnight-purple" alt="github stats" width="48%" align="right"/>
 </a>
 <a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chozeur&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chozeur&theme=midnight-purple" width="48%"/>
 </a>
 
