@@ -21,11 +21,11 @@
 
 
 
-
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=chozeur&show_icons=true&theme=midnight-purple" alt="github stats" width="48%" align="right"/>
-</a>
-<a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chozeur&theme=midnight-purple" width="48%" />
-</a>
-
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=chozeur&show_icons=true&theme=midnight-purple" alt="github stats" width="48%" align="center"/>
+  </a>
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chozeur&theme=midnight-purple" width="48%" align="center"/>
+  </a>
+</p>
