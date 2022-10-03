@@ -27,7 +27,7 @@
 ## Now playing 🎧
 <br/>
 <p align="center">
-<img width="42%" src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true"/>
 
 ## Stats 📊
 <br/>
