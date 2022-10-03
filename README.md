@@ -4,15 +4,15 @@
 
 ## About me 📝
 
-* ###	📍 Based in Paris
-* ###	🔎 Interested in Software Engineering, DevOps, Cyber Security
-* ###  💻 Languages used : C, C++, Python, Bash
+* ####	📍 Based in Paris
+* ####	🔎 Interested in Software Engineering, DevOps, Cyber Security
+* ####  💻 Languages used : C, C++, Python, Bash
 
 ## Let's connect ! 🤝
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"><img align="left" height="42" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://discord.com/"><p align="center"><img align="center" height="42" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">  
-  <a href="mailto:chozeur@protonmail.com"><img align="right" height="42" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"><img align="left" height="33" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://discord.com/"><p align="center"><img align="center" height="33" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">  
+  <a href="mailto:chozeur@protonmail.com"><img align="right" height="33" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </p>
 
 ## Now playing 🎧
@@ -38,6 +38,6 @@
 ## Stats 📊
 <p align="center">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chozeur&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&background=00000096&stroke=000000&fire=FF0000&border=000000&ring=202020&currStreakNum=636363&sideNums=636363&currStreakLabel=202020&sideLabels=636363&dates=DDD9DD" width="68%" align="center"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chozeur&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&background=00000096&stroke=000000&fire=FF0000&border=000000&ring=202020&currStreakNum=636363&sideNums=636363&currStreakLabel=202020&sideLabels=636363&dates=DDD9DD" width="42%" align="center"/>
   </a>
 </p>
