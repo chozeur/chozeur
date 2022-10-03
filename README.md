@@ -4,9 +4,9 @@
 
 ## About me 📝
 
-*	📍 Based in Paris
-*	🔎 Interested in Software Engineering, DevOps, Cyber Security
-*	💻 Languages used : C, C++, Python, Bash
+* ####	📍 Based in Paris
+* ####	🔎 Interested in Software Engineering, DevOps, Cyber Security
+* ####  💻 Languages used : C, C++, Python, Bash
 
 ## Let's connect ! 🤝
 <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"> <p align="center">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</p></a>
