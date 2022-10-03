@@ -9,9 +9,11 @@
 * ###  💻 Languages used : C, C++, Python, Bash
 
 ## Let's connect ! 🤝
-<a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"> <p align="center">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</p></a>
-<a href="https://discord.com/"><p align="center">![Discord](https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</p></a>
-<a href="mailto:chozeur@protonmail.com"><p align="center">![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</p></a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/"><img align="left" height="42" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://discord.com/"><p align="center"><img align="center" height="42" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">  
+  <a href="mailto:chozeur@protonmail.com"><img align="right" height="42" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</p>
 
 ## Now playing 🎧
 <p align="center">
