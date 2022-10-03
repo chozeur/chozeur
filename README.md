@@ -27,7 +27,7 @@
 ## Now playing 🎧
 <br/>
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true"/>
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true"/></a>
 
 ## Stats 📊
 <br/>
