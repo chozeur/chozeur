@@ -8,7 +8,7 @@
 
 * ###	📍 Based in Paris
 * ###	🔎 Interested in Software Engineering, DevOps, Cyber Security
-* ###  💻 Languages used : C, C++, Python, Bash
+* ### 💻 Languages : C, C++, Python, Bash
 
 <br/>
 
