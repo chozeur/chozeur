@@ -27,7 +27,9 @@
 ## Now playing 🎧
 <br/>
 <p align="center">
-<a href="https://github.com/kittinan/spotify-github-profile"><img id="IdTest" alt="" height="" onload="javascript:(function(){setTimeout(function(){document.getElementById('IdTest').src=document.getElementById('IdTest').src.split('?')[0]+'?time='+new Date().getTime();},2000);}())" src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true" width="" /></a>
+  <a href="https://github.com/kittinan/spotify-github-profile"><img id="IdTest" alt="" height="" onload="javascript:(function(){setTimeout(function(){document.getElementById('IdTest').src=document.getElementById('IdTest').src.split('?')[0]+'?time='+new Date().getTime();},2000);}())" src="https://spotify-github-profile.vercel.app/api/view?uid=flo_crvlho&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true" width="" />
+  </a>
+</p>
 
 ## Stats 📊
 <br/>
