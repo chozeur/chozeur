@@ -8,7 +8,54 @@
 
 * ###	📍 Based in Paris
 * ###	🔎 Interested in Software Engineering, DevOps, Cyber Security
-* ### 💻 Languages : C, C++, Python, Bash
+
+<br/>
+
+## Skills 💻
+
+<p align="center">
+  <table align="center" frame="void">
+    <tr>
+      <td align="center">
+		<font size="5">
+			Web
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
+			Software / Script
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
+			Other
+		</font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+		<font size="5">
+			<img src="https://skillicons.dev/icons?i=typescript,html,css,nodejs"/>
+			<br/>
+			<img src="https://skillicons.dev/icons?i=prisma,react,nextjs,tailwind"/>
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
+			<img src="https://skillicons.dev/icons?i=c,cpp" />
+			<br/>
+			<img src="https://skillicons.dev/icons?i=python,bash" />
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
+			<img src="https://skillicons.dev/icons?i=docker,postgresql,vscode" />
+		</font>
+      </td>
+    </tr>
+
+  </table>
+</p>
 
 <br/>
 
@@ -23,7 +70,7 @@
         <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </td>
       <td align="center">
-        <a href="https://discord.com/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>  
+        <a href="https://discord.com/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
       </td>
       <td align="center">
         <a href="mailto:chozeur@protonmail.com"><img align="center" height="63" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
@@ -43,7 +90,10 @@
   </a>
 </p>
 
+<br/>
+
 ## Stats 📊
+
 <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
