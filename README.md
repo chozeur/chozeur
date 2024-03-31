@@ -77,7 +77,7 @@
         <a href="https://www.linkedin.com/in/florian-carvalho-b24a9b197/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </td>
       <td align="center">
-        <a href="https://discord.com/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/ChoZeur%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <a href="https://discord.com/" target="_blank"><img align="center" height="63" src="https://img.shields.io/badge/ChoZeur-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
       </td>
       <td align="center">
         <a href="mailto:chozeur@protonmail.com"><img align="center" height="63" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
