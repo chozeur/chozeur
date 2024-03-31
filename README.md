@@ -23,6 +23,11 @@
       </td>
       <td align="center">
 		<font size="5">
+			Mobile
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
 			Software / Script
 		</font>
       </td>
@@ -35,9 +40,16 @@
     <tr>
       <td align="center">
 		<font size="5">
-			<img src="https://skillicons.dev/icons?i=typescript,html,css,nodejs"/>
+			<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,django"/>
 			<br/>
-			<img src="https://skillicons.dev/icons?i=prisma,react,nextjs,tailwind"/>
+			<img src="https://skillicons.dev/icons?i=prisma,react,nextjs,tailwind,angular,nestjs,npm"/>
+		</font>
+      </td>
+      <td align="center">
+		<font size="5">
+			<img src="https://skillicons.dev/icons?i=react,swift"/>
+			<br/>
+			<img src="https://skillicons.dev/icons?i=flutter"/>
 		</font>
       </td>
       <td align="center">
@@ -49,7 +61,9 @@
       </td>
       <td align="center">
 		<font size="5">
-			<img src="https://skillicons.dev/icons?i=docker,postgresql,vscode" />
+			<img src="https://skillicons.dev/icons?i=docker,postman,vscode,grafana,prometheus" />
+			<br/>
+			<img src="https://skillicons.dev/icons?i=arduino,git,github,gitlab,postgresql" />
 		</font>
       </td>
     </tr>
