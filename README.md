@@ -1,15 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%8C%8D+!+I'm+Florian%2C;Student+at+4%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3+Paris" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%8C%8D+!+I'm+Florian%2C;Studied+at+4%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3+Paris%2C;Full+Stack+Developer+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
-## About me 📝
 
-<br/>
-
-* ###	📍 Based in Paris
-* ###	🔎 Interested in Software Engineering, DevOps, Cyber Security
-
-<br/>
 
 ## Skills 💻
 
