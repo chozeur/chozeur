@@ -90,12 +90,14 @@
 
 ## Stats 📊
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=chozeur&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&background=00000096&stroke=000000&fire=FF0000&border=000000&ring=202020&currStreakNum=636363&sideNums=636363&currStreakLabel=202020&sideLabels=636363&dates=DDD9DD" align="center"/></a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://ezstat.ru/chzr"/>
