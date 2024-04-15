@@ -90,6 +90,9 @@
 
 ## Stats 📊
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
