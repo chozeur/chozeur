@@ -112,5 +112,3 @@ CSV               1 hr 6 mins     ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://ezstat.ru/chzr"/>
