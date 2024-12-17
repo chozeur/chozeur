@@ -87,28 +87,3 @@
 </p>
 
 <br/>
-
-## Stats 📊
-
-
-<br/>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chozeur&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&background=00000096&stroke=000000&fire=FF0000&border=000000&ring=202020&currStreakNum=636363&sideNums=636363&currStreakLabel=202020&sideLabels=636363&dates=DDD9DD" align="center"/></a>
-</p>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 December 2024 - To: 15 December 2024
-
-Total Time: 9 hrs 5 mins
-
-TypeScript   4 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.56 %
-JavaScript   2 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.81 %
-Python       1 hr 41 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.60 %
-Bash         14 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.69 %
-Git Config   8 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.57 %
-```
-
-<!--END_SECTION:waka-->
